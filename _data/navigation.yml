@@ -1,0 +1,17 @@
+# main links links
+main:
+    
+  - title: "Publications"
+    url: /publications/
+
+#- title: "Conference"
+#    url: /portfolio/
+
+  - title: "Experience"
+    url: /cv/
+  
+  - title: "Story"
+    url: /work/
+  
+  - title: "Contact"
+    url: /contact/
