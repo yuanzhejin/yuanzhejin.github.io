@@ -21,7 +21,7 @@ I am honored to be in the Network of European Data Scientists[(NeEDS)](https://r
 
 News
 =====
-[Jan. 2026] Paper Accepted in IEEE ICCT-Pacific 2026, Yamaguchi, Japan. An interactive model visualization is proposed for the decision tree model using the scikit-learn library.
+[Jan. 2026] Paper Accepted in IEEE ICCT-Pacific 2026, Yamaguchi, Japan. An interactive model visualization is proposed for the decision tree model using the scikit-learn library.  
 [Oct. 2025] Paper Accepted in IEEE ETECOM 2025, Bahrain. A novel visual design is proposed for high-density data in industry.  
 [Aug. 2025] Paper Accepted in IEEE DSC 2025, Taiwan. A visual classification framework and taxonomy for different model robustness testing methods are proposed.  
 [Aug. 2025] Two Papers Accepted in IEEE CBDCom 2025, Hakodate, Japan. Excited to receive the recognition from the Big Data community for the work in visual support for machine learning.  
