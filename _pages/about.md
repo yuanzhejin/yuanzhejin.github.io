@@ -10,18 +10,20 @@ redirect_from:
 
 Welcome to Yuanzhe Jin's Homepage! 
 ======
-I am a final-year Ph.D. student majoring in Computer Engineering at the University of Oxford, working as a postgraduate research assistant at the Oxford e-Research Centre [(OeRC)](https://oerc.ox.ac.uk/) with Professor [Min Chen](https://sites.google.com/view/mchen). My current work focuses on quality assurance in machine learning applications, which combines human and machine strengths in the machine learning model training and testing process. 
+I am a Ph.D. graduate majoring in Computer Engineering at the University of Oxford, working as a postgraduate research assistant at the Oxford e-Research Centre [(OeRC)](https://oerc.ox.ac.uk/) with Professor [Min Chen](https://sites.google.com/view/mchen). My current work focuses on quality assurance in machine learning applications, which combines human and machine strengths in the machine learning model training and testing process. 
 
 My research interests include: 
  * Data Visualization
- * Machine Learning Model Quality Assurance
- * Biomedical Data Analysis
+ * Model Quality Assurance
+ * Data Analysis
 
 I am honored to be in the Network of European Data Scientists[(NeEDS)](https://riseneeds.eu/secondments/previous-secondments-university-of-oxford/yuanzhe-jin-at-centraal-bureau-voor-de-statistiek/) project and collaborate with Statistics Netherlands, Inetum Spain, and Inria.
 
 News
 =====
-[Jan. 2026] Paper Accepted in ACM CHI 2026, Barcelona, Spain! An interactive visualization tool for feature editing techniques in time series data.  
+[Feb. 2026] One Abstract Accepted in LSRS 2026, Chicago, USA! A visual analysis method for the spine surgery epoch division strategy was proposed.  
+[Jan. 2026] Two Abstracts Accepted in ISASS 2026, Miami, USA! A collaboration with visual analysis and modeling of spine surgery recovery data.  
+[Jan. 2026] Paper Accepted in ACM CHI 2026, Barcelona, Spain! An interactive visualization tool for feature editing techniques in time series data. My collaborator will present the work in Barcelona.  
 [Jan. 2026] Paper Accepted in IEEE ICCT-Pacific 2026, Yamaguchi, Japan. An interactive model visualization is proposed for the decision tree model using the scikit-learn library.  
 [Oct. 2025] Paper Accepted in IEEE ETECOM 2025, Bahrain. A novel visual design is proposed for high-density data in industry.  
 [Aug. 2025] Paper Accepted in IEEE DSC 2025, Taiwan. A visual classification framework and taxonomy for different model robustness testing methods are proposed.  
