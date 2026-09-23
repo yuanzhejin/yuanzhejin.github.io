@@ -23,7 +23,7 @@ I am honored to be in the Network of European Data Scientists[(NeEDS)](https://r
 
 News
 =====
-[Sept. 2026] Received an SMISS Research Grant with Dr. Yoon for From Endoscopic Spine Video to Surgical Understanding: Annotated Spine Endoscopy Videos and AI Models for Anatomy and Procedural Steps.  
+[Sept. 2026] Received an SMISS Research Grant with Dr. Yoon for "From Endoscopic Spine Video to Surgical Understanding: Annotated Spine Endoscopy Videos and AI Models for Anatomy and Procedural Steps".  
 [Jul. 2026] Three Abstracts Accepted at CNS 2026, Washington, DC, on digital health and neurological research.  
 [Jul. 2026] Two Abstracts Accepted at NSC 2026, Seoul, South Korea, on smartphone-based mobility analysis and functional recovery after spine surgery.  
 [Jun. 2026] Three Abstracts Accepted at SMISS 2026, Las Vegas, USA! One was selected for a podium presentation, featuring our visual analysis method for spine surgery epoch division strategy.  
